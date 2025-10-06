@@ -34,7 +34,7 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-      <Tile>
+      {/*<Tile>
         <Card name="CC1">
           This is a card
         </Card>
@@ -44,7 +44,8 @@ function App() {
         <Card name="CC3">
           This is a card
         </Card>
-      </Tile>
+      </Tile>*/}
+
       <Counter count="10"></Counter>
       
       <div>
